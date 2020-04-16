@@ -7,7 +7,7 @@ module.exports = {
     },
     {
       id: 2,
-      title: 'write React frontend',
+      title: 'write Flutter frontend',
       completed: false
     }
   ]
